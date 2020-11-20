@@ -13,7 +13,7 @@ You can change directories in compisiting to specify where to save depth mask an
 
 <img src="doc/scene.png" width="800" />
 
-A depth image generated:
+A depth image generated: />
 <img src="/doc/depth.png" width="800" />
 
-You can find a example of output in folder [data/0](https://github.com/votegrasp/blender-scripts/tree/master/data/0)
+You can find a example of output in folder [data/0](https://github.com/votegrasp/blender-scripts/tree/master/data/0) />
