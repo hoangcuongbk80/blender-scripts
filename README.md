@@ -4,7 +4,7 @@ The scripts were tested on [Blender 2.83](https://download.blender.org/release/B
 
 To convert masks to semantic images, please run the python script mask2semantic.py in the folder /tools <br />
 
-You can [download](http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/) and load import more YCB models into Blender  <br />
+You can [download](http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/) and import more YCB models into Blender  <br />
 
 <img src="doc/blender.png" width="800" />
 
