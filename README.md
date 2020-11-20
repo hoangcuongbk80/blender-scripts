@@ -7,10 +7,9 @@ To convert masks to semantic images, please run the python script mask2semantic.
 You can [download](http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/) and load import more YCB models into Blender  <br />
 
 <img src="doc/blender.png" width="800" />
-You can modify the python script as expected.
 
-<img src="doc/blender.png" width="800" />
-You can change directories in compisiting.
+You can change directories in compisiting to specify where to save depth mask and depth images.
+<img src="doc/compositing.png" width="800" />
 
 <img src="doc/scene.png" width="800" />
 
