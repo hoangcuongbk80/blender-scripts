@@ -7,9 +7,9 @@ import shutil
 objects = {'007_tuna_fish_can':1, '008_pudding_box':2, '011_banana':3, '024_bowl':4, '025_mug':5, '044_flat_screwdriver':6,
             '051_large_clamp':7, '055_baseball':8, '061_foam_brick': 9, '065-h_cups':10}
 
-data_dir = '/home/hoang/OSS/VoteGrasp/blender-scripts/data'
-start_scene = 50
-end_scene = 52
+data_dir = '/home/oru/OSS/VoteGrasp/blender-scripts/data'
+start_scene = 0
+end_scene = 1
 
 for s in range(start_scene, end_scene):
     scene_dir = os.path.join(data_dir, str(s))
